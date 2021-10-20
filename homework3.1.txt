@@ -1,0 +1,5 @@
+1. byClassName ("gLFyf") or byName("q") 
+
+2. byName("btnK")
+
+3. byXpath("//*[@id="gb"]/div/div[1]/div/div[2]/a")
